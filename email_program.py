@@ -11,7 +11,7 @@ window.geometry("500x500")
 
 # Please replace below with your email address and password
 email_sender = '_____'
-email_password = 'your password or Two-factor authentication (2FA) '
+email_password = 'apply Two-factor authentication (2FA) then get app password '
 email_receiver = '_____'
 
 # Plain Text string as the email message
